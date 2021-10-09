@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://media.giphy.com/media/2FayYXU90QS9MmAIo/giphy.gif" width="620" height="420" />
 
 <!--
 **ivanildopontualneto/ivanildopontualneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
