@@ -36,7 +36,7 @@ Welcome to my Github profile! 👋🏻
 
 ## PORTFOLIO:
  
-🛠 https://ivanildopontualneto.github.io/
+(🛠 Under Construction) https://ivanildopontualneto.github.io/
  
 ## CONTACT:
  
