@@ -8,7 +8,7 @@ Welcome to my Github profile! 👋🏻
 
 <div display="inline-block">
  <p align="left">👨🏻‍💻 I'm Ivanildo, a 27 years old software development analyst;</p>
- <p align="left">📚 I've been studying Symfony Framework lately;</p>
+ <p align="left">📚 I've been studying Java and PHP lately;</p>
  <p align="left">🎮 A huge video game lover (PSN/Steam: peterbenjaparker);</p>
  <p align="left">🔴⚫ Flamengo fan.</p>
 </div>
