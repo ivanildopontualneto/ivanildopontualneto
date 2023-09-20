@@ -7,7 +7,7 @@ Welcome to my Github profile! 👋🏻
 ## ABOUT ME:
 
 <div display="inline-block">
- <p align="left">👨🏻‍💻 I'm Ivanildo, a 27 years old software development analyst;</p>
+ <p align="left">👨🏻‍💻 I'm Ivanildo, a 28 years old software development analyst;</p>
  <p align="left">📚 I've been studying Java and PHP lately;</p>
  <p align="left">🎮 A huge video game lover;</p>
  <p align="left">🔴⚫ Flamengo fan.</p>
